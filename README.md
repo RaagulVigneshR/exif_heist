@@ -16,7 +16,7 @@ Before continuing make sure following requirements are satisfied:
 ## LINUX
 <pre>
 sudo apt install git
-git clone 
+git clone https://github.com/RaagulVigneshR/exif_heist
 cd Exifnew
 py exifnew.py
 </pre>
@@ -24,7 +24,7 @@ py exifnew.py
 <pre>
 pkg install git -y 
 pkg install python -y 
-git clone 
+git clone https://github.com/RaagulVigneshR/exif_heist
 cd Exifnew
 python3 exifnew.py
 </pre>
@@ -33,3 +33,9 @@ python3 exifnew.py
 cd Exifnew
 py exifnew.py
 </pre>
+# Authors
+ * RAAGUL VIGNESH R [Linkedin](https://www.linkedin.com/in/raagul-vignesh-10842a228/) 
+ * SHARAN K [Linkedin](https://www.linkedin.com/in/sharan-k-40809b221/) 
+# SUPPORT
+Contributions, issues, and feature requests are welcome!\
+Give a ★ if you like this project!
