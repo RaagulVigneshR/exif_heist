@@ -4,7 +4,7 @@ EXIF HEIST is a powerful tool used to extract metadata of a file. It enables us 
 # PREREQUSITES:
 * PYTHON VERSION 3 OR ABOVE                                                                                                                        
 * PILLOW PACKAGE
-# TO INSTALL PILLOW PACKAGE
+## TO INSTALL PILLOW PACKAGE
 use the command:
    <pre>pip install pillow</pre>
 # USAGE
