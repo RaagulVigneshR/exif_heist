@@ -14,8 +14,8 @@ Before continuing make sure following requirements are satisfied:
  
 # INSTALLATION
 ## LINUX
+- Install all the dependendies 
 <pre>
-## Install all the dependendies 
 sudo apt install git
 git clone https://github.com/RaagulVigneshR/exif_heist
 cd Exifnew
