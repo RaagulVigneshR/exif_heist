@@ -36,7 +36,7 @@ py exifnew.py
 </pre>
 # Authors
  * RAAGUL VIGNESH R [Linkedin](https://www.linkedin.com/in/raagul-vignesh-10842a228/) 
- * SHARAN K [Linkedin](https://www.linkedin.com/in/sharan-k-40809b221/) 
+ * SHARAN K [Linkedin](https://www.linkedin.com/in/sharan-k-40809b221/) .
 # SUPPORT
 Contributions, issues, and feature requests are welcome!\
 Give a ★ if you like this project!
